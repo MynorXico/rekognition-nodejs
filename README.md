@@ -1,3 +1,4 @@
+![BuildStatus](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiZzUvMGQyVFZHQk0wQkZjL3RwaUM0eTNMelBwVEtTckFDd1VtMHF0aWhESXl5L3Bvc2dPWE9uZUliek82bW1Eb0ZxcmRiRkk5VTB2TWtSMUJwMWxwbFdVPSIsIml2UGFyYW1ldGVyU3BlYyI6IkJLMzZ2QnY4elN6ajhJZUwiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
 # rekognition-nodejs
 rekognition-nodejs
 
